@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+heimoi
+=======
+moimoimoi
+>>>>>>> 7f702ec9b4803d19739779c00a5a296abf15a08c
